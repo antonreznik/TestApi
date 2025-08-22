@@ -1,0 +1,64 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET
+appsettings.*.json
+appsettings.json
+
+# Logs
+*.log
+
+# Others
+TestResults/
+*.db
+*.sqlite
+*.pdb
+*.mdb
+*.cache
+*.bak
+*.swp
+*.tmp
+*.ncb
+*.opendb
+*.VC.db
+*.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Azure
+*.azure*
+
+# IIS
+*.vspscc
+*.vssscc
+
+# Docker
+**/docker-compose.*.yml
+**/Dockerfile*
