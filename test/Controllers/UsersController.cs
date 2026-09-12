@@ -6,7 +6,7 @@ using Application.Users.List;
 using Application.Users.Update;
 using Microsoft.AspNetCore.Mvc;
 
-namespace test.Controllers
+namespace API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
